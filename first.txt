@@ -1,2 +1,4 @@
 練習
 korekore
+/git add
+/git commit
