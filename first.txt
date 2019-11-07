@@ -2,3 +2,4 @@
 korekore
 git add
 git commit
+/git remove
